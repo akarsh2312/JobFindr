@@ -53,12 +53,12 @@ JobFindr is a full-stack job portal application built using the MERN stack (Mong
     cd backend
     npm install
 
-4.Install frontend dependencies:
+4. Install frontend dependencies:
    ```bash
     cd frontend
     npm install
 
-5.Set up your environment variables:
+5. Set up your environment variables:
    ```bash
     Create a .env file in the backend directory.
     Add the necessary MongoDB URI and JWT secret key.
